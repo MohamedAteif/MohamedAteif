@@ -11,7 +11,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class CommenMethods {
 	private WebDriver driver;
 	public String baseUrl;
-
+ 
 	public CommenMethods(WebDriver driver, String baseUrl) {
 		this.driver = driver;
 		this.baseUrl = baseUrl;

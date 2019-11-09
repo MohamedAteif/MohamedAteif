@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import CommenUsedMethods.CommenMethods;
-
+ 
 public class RegisterCustomerTestCases {
 	private static WebDriver driver;
 	static Logger lg = Logger.getLogger(RegisteringNewCustomer.RegisterCustomerTestCases.class.getName());
