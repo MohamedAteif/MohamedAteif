@@ -1,5 +1,5 @@
 package CommenUsedMethods;
-
+ 
 import java.util.Hashtable;
 import java.util.Map;
 
@@ -16,7 +16,7 @@ public class CommenMethods {
 		this.driver = driver;
 		this.baseUrl = baseUrl;
 	}
-
+ 
 	public void setDrivers() {
 		if (!System.getProperty("os.name").contains("Windows")) {
 			System.setProperty("webdriver.gecko.driver",
@@ -33,12 +33,15 @@ public class CommenMethods {
 			System.setProperty("webdriver.chrome.driver",
 					System.getProperty("user.home") + System.getProperty("file.separator") + "chromedriver.exe");
 		}
-	}
 
+	}
+ 
 	public WebDriver setUpDriversWebDrivers() throws Exception {
-		String Browser = System.getProperty("Test.Browser");
-		String Server = System.getProperty("Test.Server");
-		if (Browser.equals("GC")) {
+		/*String Browser = System.getProperty("Test.Browser");
+		String Server = System.getProperty("Test.Server");*/
+		String Browser = "GoogleChrome";
+		String Server = "www.check24.de";
+		if (Browser.equalsIgnoreCase("GoogleChrome")) {
 			Map<String, Object> preferences = new Hashtable<String, Object>();
 			preferences.put("profile.default_content_settings.popups", 0);
 			// preferences.put("download.default_directory", downloadFilepath);
@@ -47,7 +50,7 @@ public class CommenMethods {
 			options.setExperimentalOption("prefs", preferences);
 			options.addArguments("--start-maximized");
 			driver = new ChromeDriver(options);
-		} else if (Browser.equals("FF")) {
+		} else if (Browser.equalsIgnoreCase("Firefox")) {
 			driver = new FirefoxDriver();
 			driver.manage().window().maximize();
 		}

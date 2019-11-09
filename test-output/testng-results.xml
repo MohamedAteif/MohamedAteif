@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7058" started-at="2019-11-09T17:19:13Z" finished-at="2019-11-09T17:19:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7058" started-at="2019-11-09T17:19:13Z" finished-at="2019-11-09T17:19:20Z">
+      <class name="RegisteringNewCustomer.RegisterCustomerTestCases">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@5119fb47]" name="setUp" is-config="true" duration-ms="6270" started-at="2019-11-09T19:19:13Z" finished-at="2019-11-09T19:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="oneMoreTest()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@5119fb47]" name="oneMoreTest" duration-ms="7" started-at="2019-11-09T19:19:19Z" finished-at="2019-11-09T19:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneMoreTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@5119fb47]" name="tearDown" is-config="true" duration-ms="763" started-at="2019-11-09T19:19:19Z" finished-at="2019-11-09T19:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- RegisteringNewCustomer.RegisterCustomerTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

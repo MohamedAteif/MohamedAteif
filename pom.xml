@@ -2,18 +2,10 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-
 	<groupId>Check24</groupId>
 	<artifactId>Check24</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
-
 	<name>Check24</name>
-	<url>http://maven.apache.org</url>
-
-	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	</properties>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<resources>
@@ -26,28 +18,25 @@
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>2.12.4</version>
+				<executions>
+                        <execution>
+                            <phase>test</phase>
+                            <goals>
+                                <goal>test</goal>
+                            </goals>
+                        </execution>
+                    </executions>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>${TestNGXML}</suiteXmlFile>
+						<suiteXmlFile>testng_Check24.xml</suiteXmlFile>
 					</suiteXmlFiles>
 					<systemProperties>
 						<property>
 							<name>log4j.configurationFile</name>
-							<value>${sys:user.home}${sys:file.separator}CI_Integration${sys:file.separator}${LogDir}${sys:file.separator}log4j2.xml</value>
+							<value>${sys:user.home}${sys:file.separator}Check24${sys:file.separator}log4j2.xml</value>
 						</property>
 					</systemProperties>
 				</configuration>
-			</plugin>
-			<plugin>
-				<artifactId>maven-failsafe-plugin</artifactId>
-				<executions>
-					<execution>
-						<goals>
-							<goal>integration-test</goal>
-							<goal>verify</goal>
-						</goals>
-					</execution>
-				</executions>
 			</plugin>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
@@ -196,7 +185,10 @@
 			<artifactId>gson</artifactId>
 			<version>1.7.1</version>
 		</dependency>
+		<dependency>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-surefire-plugin</artifactId>
+			<version>2.12.4</version>
+		</dependency>
 	</dependencies>
-
-
 </project>
