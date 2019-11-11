@@ -1,0 +1,239 @@
+# Created at 2019-11-10T17:30:08.181
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-11-10T17:30:08.229
+Unexpected IOException with stream: [32m[2019-11-10 17:30:08,228] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 14 
+
+[m
+
+# Created at 2019-11-10T17:30:09.247
+Unexpected IOException with stream: [32m[2019-11-10 17:30:09,246] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 15 
+
+[m
+
+# Created at 2019-11-10T17:30:10.264
+Unexpected IOException with stream: [32m[2019-11-10 17:30:10,263] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 16 
+
+[m
+
+# Created at 2019-11-10T17:30:11.283
+Unexpected IOException with stream: [32m[2019-11-10 17:30:11,282] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 17 
+
+[m
+
+# Created at 2019-11-10T17:30:12.299
+Unexpected IOException with stream: [32m[2019-11-10 17:30:12,298] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 18 
+
+[m
+
+# Created at 2019-11-10T17:30:13.315
+Unexpected IOException with stream: [32m[2019-11-10 17:30:13,314] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 19 
+
+[m
+
+# Created at 2019-11-10T17:30:14.332
+Unexpected IOException with stream: [32m[2019-11-10 17:30:14,331] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 20 
+
+[m
+
+# Created at 2019-11-10T17:30:15.348
+Unexpected IOException with stream: [32m[2019-11-10 17:30:15,347] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 21 
+
+[m
+
+# Created at 2019-11-10T17:30:16.365
+Unexpected IOException with stream: [32m[2019-11-10 17:30:16,364] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 22 
+
+[m
+
+# Created at 2019-11-10T17:30:17.380
+Unexpected IOException with stream: [32m[2019-11-10 17:30:17,379] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 23 
+
+[m
+
+# Created at 2019-11-10T17:30:18.397
+Unexpected IOException with stream: [32m[2019-11-10 17:30:18,396] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 24 
+
+[m
+
+# Created at 2019-11-10T17:30:19.414
+Unexpected IOException with stream: [32m[2019-11-10 17:30:19,413] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 25 
+
+[m
+
+# Created at 2019-11-10T17:30:20.430
+Unexpected IOException with stream: [32m[2019-11-10 17:30:20,430] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 26 
+
+[m
+
+# Created at 2019-11-10T17:30:21.448
+Unexpected IOException with stream: [32m[2019-11-10 17:30:21,447] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 27 
+
+[m
+
+# Created at 2019-11-10T17:30:22.466
+Unexpected IOException with stream: [32m[2019-11-10 17:30:22,465] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 28 
+
+[m
+
+# Created at 2019-11-10T17:30:23.482
+Unexpected IOException with stream: [32m[2019-11-10 17:30:23,481] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 29 
+
+[m
+
+# Created at 2019-11-10T17:30:24.498
+Unexpected IOException with stream: [32m[2019-11-10 17:30:24,498] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 30 
+
+[m
+
+# Created at 2019-11-10T17:30:25.515
+Unexpected IOException with stream: [32m[2019-11-10 17:30:25,514] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 31 
+
+[m
+
+# Created at 2019-11-10T17:30:26.532
+Unexpected IOException with stream: [32m[2019-11-10 17:30:26,531] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 32 
+
+[m
+
+# Created at 2019-11-10T17:30:27.549
+Unexpected IOException with stream: [32m[2019-11-10 17:30:27,548] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 33 
+
+[m
+
+# Created at 2019-11-10T17:30:28.564
+Unexpected IOException with stream: [32m[2019-11-10 17:30:28,563] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 34 
+
+[m
+
+# Created at 2019-11-10T17:30:29.582
+Unexpected IOException with stream: [32m[2019-11-10 17:30:29,581] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 35 
+
+[m
+
+# Created at 2019-11-10T17:30:30.602
+Unexpected IOException with stream: [32m[2019-11-10 17:30:30,601] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 36 
+
+[m
+
+# Created at 2019-11-10T17:30:31.618
+Unexpected IOException with stream: [32m[2019-11-10 17:30:31,617] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 37 
+
+[m
+
+# Created at 2019-11-10T17:30:32.635
+Unexpected IOException with stream: [32m[2019-11-10 17:30:32,634] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 38 
+
+[m
+
+# Created at 2019-11-10T17:30:33.656
+Unexpected IOException with stream: [32m[2019-11-10 17:30:33,655] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 39 
+
+[m
+
+# Created at 2019-11-10T17:30:34.676
+Unexpected IOException with stream: [32m[2019-11-10 17:30:34,675] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 40 
+
+[m
+
+# Created at 2019-11-10T17:30:35.693
+Unexpected IOException with stream: [32m[2019-11-10 17:30:35,692] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 41 
+
+[m
+
+# Created at 2019-11-10T17:30:36.709
+Unexpected IOException with stream: [32m[2019-11-10 17:30:36,708] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 42 
+
+[m
+
+# Created at 2019-11-10T17:30:37.725
+Unexpected IOException with stream: [32m[2019-11-10 17:30:37,724] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 43 
+
+[m
+
+# Created at 2019-11-10T17:30:38.741
+Unexpected IOException with stream: [32m[2019-11-10 17:30:38,740] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 44 
+
+[m
+
+# Created at 2019-11-10T17:30:39.757
+Unexpected IOException with stream: [32m[2019-11-10 17:30:39,756] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 45 
+
+[m
+
+# Created at 2019-11-10T17:30:40.772
+Unexpected IOException with stream: [32m[2019-11-10 17:30:40,771] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 46 
+
+[m
+
+# Created at 2019-11-10T17:30:41.791
+Unexpected IOException with stream: [32m[2019-11-10 17:30:41,790] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 47 
+
+[m
+
+# Created at 2019-11-10T17:30:42.807
+Unexpected IOException with stream: [32m[2019-11-10 17:30:42,806] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 48 
+
+[m
+
+# Created at 2019-11-10T17:30:43.824
+Unexpected IOException with stream: [32m[2019-11-10 17:30:43,823] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 49 
+
+[m
+
+# Created at 2019-11-10T17:30:44.840
+Unexpected IOException with stream: [32m[2019-11-10 17:30:44,839] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 50 
+
+[m
+
+# Created at 2019-11-10T17:30:45.856
+Unexpected IOException with stream: [32m[2019-11-10 17:30:45,855] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 51 
+
+[m
+
+# Created at 2019-11-10T17:30:46.873
+Unexpected IOException with stream: [32m[2019-11-10 17:30:46,872] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 52 
+
+[m
+
+# Created at 2019-11-10T17:30:47.889
+Unexpected IOException with stream: [32m[2019-11-10 17:30:47,889] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 53 
+
+[m
+
+# Created at 2019-11-10T17:30:48.906
+Unexpected IOException with stream: [32m[2019-11-10 17:30:48,905] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 54 
+
+[m
+
+# Created at 2019-11-10T17:30:49.923
+Unexpected IOException with stream: [32m[2019-11-10 17:30:49,922] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 55 
+
+[m
+
+# Created at 2019-11-10T17:30:50.940
+Unexpected IOException with stream: [32m[2019-11-10 17:30:50,939] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 56 
+
+[m
+
+# Created at 2019-11-10T17:30:51.956
+Unexpected IOException with stream: [32m[2019-11-10 17:30:51,956] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 57 
+
+[m
+
+# Created at 2019-11-10T17:30:52.973
+Unexpected IOException with stream: [32m[2019-11-10 17:30:52,972] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 58 
+
+[m
+
+# Created at 2019-11-10T17:30:53.989
+Unexpected IOException with stream: [32m[2019-11-10 17:30:53,988] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 59 
+
+[m
+

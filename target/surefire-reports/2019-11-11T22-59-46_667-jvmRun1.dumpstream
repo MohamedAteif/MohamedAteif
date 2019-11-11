@@ -1,0 +1,406 @@
+# Created at 2019-11-11T23:00:36.374
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-11-11T23:00:37.271
+Unexpected IOException with stream: [32m[2019-11-11 23:00:37,270] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 9 
+
+[m
+
+# Created at 2019-11-11T23:00:38.294
+Unexpected IOException with stream: [32m[2019-11-11 23:00:38,293] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 10 
+
+[m
+
+# Created at 2019-11-11T23:00:39.320
+Unexpected IOException with stream: [32m[2019-11-11 23:00:39,319] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 11 
+
+[m
+
+# Created at 2019-11-11T23:00:40.341
+Unexpected IOException with stream: [32m[2019-11-11 23:00:40,340] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 12 
+
+[m
+
+# Created at 2019-11-11T23:00:41.364
+Unexpected IOException with stream: [32m[2019-11-11 23:00:41,363] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 13 
+
+[m
+
+# Created at 2019-11-11T23:00:42.385
+Unexpected IOException with stream: [32m[2019-11-11 23:00:42,384] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 14 
+
+[m
+
+# Created at 2019-11-11T23:00:43.407
+Unexpected IOException with stream: [32m[2019-11-11 23:00:43,406] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 15 
+
+[m
+
+# Created at 2019-11-11T23:00:44.427
+Unexpected IOException with stream: [32m[2019-11-11 23:00:44,426] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 16 
+
+[m
+
+# Created at 2019-11-11T23:00:45.449
+Unexpected IOException with stream: [32m[2019-11-11 23:00:45,448] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 17 
+
+[m
+
+# Created at 2019-11-11T23:00:46.468
+Unexpected IOException with stream: [32m[2019-11-11 23:00:46,467] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 18 
+
+[m
+
+# Created at 2019-11-11T23:00:47.492
+Unexpected IOException with stream: [32m[2019-11-11 23:00:47,491] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 19 
+
+[m
+
+# Created at 2019-11-11T23:00:48.514
+Unexpected IOException with stream: [32m[2019-11-11 23:00:48,513] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 20 
+
+[m
+
+# Created at 2019-11-11T23:00:49.571
+Unexpected IOException with stream: [32m[2019-11-11 23:00:49,570] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 21 
+
+[m
+
+# Created at 2019-11-11T23:00:50.598
+Unexpected IOException with stream: [32m[2019-11-11 23:00:50,597] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 22 
+
+[m
+
+# Created at 2019-11-11T23:00:51.620
+Unexpected IOException with stream: [32m[2019-11-11 23:00:51,619] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 23 
+
+[m
+
+# Created at 2019-11-11T23:00:52.649
+Unexpected IOException with stream: [32m[2019-11-11 23:00:52,648] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 24 
+
+[m
+
+# Created at 2019-11-11T23:00:53.670
+Unexpected IOException with stream: [32m[2019-11-11 23:00:53,669] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 25 
+
+[m
+
+# Created at 2019-11-11T23:00:54.690
+Unexpected IOException with stream: [32m[2019-11-11 23:00:54,689] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 26 
+
+[m
+
+# Created at 2019-11-11T23:00:55.714
+Unexpected IOException with stream: [32m[2019-11-11 23:00:55,713] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 27 
+
+[m
+
+# Created at 2019-11-11T23:00:56.744
+Unexpected IOException with stream: [32m[2019-11-11 23:00:56,743] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 28 
+
+[m
+
+# Created at 2019-11-11T23:00:57.823
+Unexpected IOException with stream: [32m[2019-11-11 23:00:57,822] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 29 
+
+[m
+
+# Created at 2019-11-11T23:00:58.845
+Unexpected IOException with stream: [32m[2019-11-11 23:00:58,844] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 30 
+
+[m
+
+# Created at 2019-11-11T23:00:59.883
+Unexpected IOException with stream: [32m[2019-11-11 23:00:59,867] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 31 
+
+[m
+
+# Created at 2019-11-11T23:01:00.905
+Unexpected IOException with stream: [32m[2019-11-11 23:01:00,904] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 32 
+
+[m
+
+# Created at 2019-11-11T23:01:01.936
+Unexpected IOException with stream: [32m[2019-11-11 23:01:01,935] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 33 
+
+[m
+
+# Created at 2019-11-11T23:01:02.963
+Unexpected IOException with stream: [32m[2019-11-11 23:01:02,962] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 34 
+
+[m
+
+# Created at 2019-11-11T23:01:03.986
+Unexpected IOException with stream: [32m[2019-11-11 23:01:03,985] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 35 
+
+[m
+
+# Created at 2019-11-11T23:01:05.011
+Unexpected IOException with stream: [32m[2019-11-11 23:01:05,010] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 36 
+
+[m
+
+# Created at 2019-11-11T23:01:06.047
+Unexpected IOException with stream: [32m[2019-11-11 23:01:06,046] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 37 
+
+[m
+
+# Created at 2019-11-11T23:01:07.073
+Unexpected IOException with stream: [32m[2019-11-11 23:01:07,072] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 38 
+
+[m
+
+# Created at 2019-11-11T23:01:08.118
+Unexpected IOException with stream: [32m[2019-11-11 23:01:08,117] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 39 
+
+[m
+
+# Created at 2019-11-11T23:01:09.140
+Unexpected IOException with stream: [32m[2019-11-11 23:01:09,139] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 40 
+
+[m
+
+# Created at 2019-11-11T23:01:10.163
+Unexpected IOException with stream: [32m[2019-11-11 23:01:10,162] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 41 
+
+[m
+
+# Created at 2019-11-11T23:01:11.188
+Unexpected IOException with stream: [32m[2019-11-11 23:01:11,187] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 42 
+
+[m
+
+# Created at 2019-11-11T23:01:12.216
+Unexpected IOException with stream: [32m[2019-11-11 23:01:12,215] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 43 
+
+[m
+
+# Created at 2019-11-11T23:01:13.239
+Unexpected IOException with stream: [32m[2019-11-11 23:01:13,238] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 44 
+
+[m
+
+# Created at 2019-11-11T23:01:15.244
+Unexpected IOException with stream: [
+
+# Created at 2019-11-11T23:01:15.245
+Unexpected IOException with stream: 1
+
+# Created at 2019-11-11T23:01:15.246
+Unexpected IOException with stream: 5
+
+# Created at 2019-11-11T23:01:15.247
+Unexpected IOException with stream: 7
+
+# Created at 2019-11-11T23:01:15.248
+Unexpected IOException with stream: 3
+
+# Created at 2019-11-11T23:01:15.248
+Unexpected IOException with stream: 5
+
+# Created at 2019-11-11T23:01:15.249
+Unexpected IOException with stream: 0
+
+# Created at 2019-11-11T23:01:15.250
+Unexpected IOException with stream: 6
+
+# Created at 2019-11-11T23:01:15.250
+Unexpected IOException with stream: 0
+
+# Created at 2019-11-11T23:01:15.251
+Unexpected IOException with stream: 7
+
+# Created at 2019-11-11T23:01:15.251
+Unexpected IOException with stream: 5
+
+# Created at 2019-11-11T23:01:15.252
+Unexpected IOException with stream: .
+
+# Created at 2019-11-11T23:01:15.252
+Unexpected IOException with stream: 2
+
+# Created at 2019-11-11T23:01:15.253
+Unexpected IOException with stream: 4
+
+# Created at 2019-11-11T23:01:15.254
+Unexpected IOException with stream: 3
+
+# Created at 2019-11-11T23:01:15.254
+Unexpected IOException with stream: ]
+
+# Created at 2019-11-11T23:01:15.255
+Unexpected IOException with stream: [
+
+# Created at 2019-11-11T23:01:15.256
+Unexpected IOException with stream: W
+
+# Created at 2019-11-11T23:01:15.256
+Unexpected IOException with stream: A
+
+# Created at 2019-11-11T23:01:15.257
+Unexpected IOException with stream: R
+
+# Created at 2019-11-11T23:01:15.258
+Unexpected IOException with stream: N
+
+# Created at 2019-11-11T23:01:15.258
+Unexpected IOException with stream: I
+
+# Created at 2019-11-11T23:01:15.259
+Unexpected IOException with stream: N
+
+# Created at 2019-11-11T23:01:15.260
+Unexpected IOException with stream: G
+
+# Created at 2019-11-11T23:01:15.260
+Unexpected IOException with stream: ]
+
+# Created at 2019-11-11T23:01:15.261
+Unexpected IOException with stream: :
+
+# Created at 2019-11-11T23:01:15.261
+Unexpected IOException with stream:  
+
+# Created at 2019-11-11T23:01:15.262
+Unexpected IOException with stream: T
+
+# Created at 2019-11-11T23:01:15.263
+Unexpected IOException with stream: i
+
+# Created at 2019-11-11T23:01:15.264
+Unexpected IOException with stream: m
+
+# Created at 2019-11-11T23:01:15.264
+Unexpected IOException with stream: e
+
+# Created at 2019-11-11T23:01:15.265
+Unexpected IOException with stream: d
+
+# Created at 2019-11-11T23:01:15.266
+Unexpected IOException with stream:  
+
+# Created at 2019-11-11T23:01:15.266
+Unexpected IOException with stream: o
+
+# Created at 2019-11-11T23:01:15.267
+Unexpected IOException with stream: u
+
+# Created at 2019-11-11T23:01:15.267
+Unexpected IOException with stream: t
+
+# Created at 2019-11-11T23:01:15.268
+Unexpected IOException with stream:  
+
+# Created at 2019-11-11T23:01:15.268
+Unexpected IOException with stream: c
+
+# Created at 2019-11-11T23:01:15.269
+Unexpected IOException with stream: o
+
+# Created at 2019-11-11T23:01:15.270
+Unexpected IOException with stream: n
+
+# Created at 2019-11-11T23:01:15.270
+Unexpected IOException with stream: n
+
+# Created at 2019-11-11T23:01:15.271
+Unexpected IOException with stream: e
+
+# Created at 2019-11-11T23:01:15.271
+Unexpected IOException with stream: c
+
+# Created at 2019-11-11T23:01:15.272
+Unexpected IOException with stream: t
+
+# Created at 2019-11-11T23:01:15.273
+Unexpected IOException with stream: i
+
+# Created at 2019-11-11T23:01:15.273
+Unexpected IOException with stream: n
+
+# Created at 2019-11-11T23:01:15.274
+Unexpected IOException with stream: g
+
+# Created at 2019-11-11T23:01:15.275
+Unexpected IOException with stream:  
+
+# Created at 2019-11-11T23:01:15.275
+Unexpected IOException with stream: t
+
+# Created at 2019-11-11T23:01:15.276
+Unexpected IOException with stream: o
+
+# Created at 2019-11-11T23:01:15.276
+Unexpected IOException with stream:  
+
+# Created at 2019-11-11T23:01:15.277
+Unexpected IOException with stream: C
+
+# Created at 2019-11-11T23:01:15.278
+Unexpected IOException with stream: h
+
+# Created at 2019-11-11T23:01:15.278
+Unexpected IOException with stream: r
+
+# Created at 2019-11-11T23:01:15.279
+Unexpected IOException with stream: o
+
+# Created at 2019-11-11T23:01:15.279
+Unexpected IOException with stream: m
+
+# Created at 2019-11-11T23:01:15.280
+Unexpected IOException with stream: e
+
+# Created at 2019-11-11T23:01:15.280
+Unexpected IOException with stream: ,
+
+# Created at 2019-11-11T23:01:15.281
+Unexpected IOException with stream:  
+
+# Created at 2019-11-11T23:01:15.281
+Unexpected IOException with stream: r
+
+# Created at 2019-11-11T23:01:15.282
+Unexpected IOException with stream: e
+
+# Created at 2019-11-11T23:01:15.283
+Unexpected IOException with stream: t
+
+# Created at 2019-11-11T23:01:15.283
+Unexpected IOException with stream: r
+
+# Created at 2019-11-11T23:01:15.284
+Unexpected IOException with stream: y
+
+# Created at 2019-11-11T23:01:15.284
+Unexpected IOException with stream: i
+
+# Created at 2019-11-11T23:01:15.285
+Unexpected IOException with stream: n
+
+# Created at 2019-11-11T23:01:15.285
+Unexpected IOException with stream: g
+
+# Created at 2019-11-11T23:01:15.286
+Unexpected IOException with stream: .
+
+# Created at 2019-11-11T23:01:15.287
+Unexpected IOException with stream: .
+
+# Created at 2019-11-11T23:01:15.287
+Unexpected IOException with stream: .
+
+# Created at 2019-11-11T23:01:15.288
+Unexpected IOException with stream: 
+
+# Created at 2019-11-11T23:01:15.289
+Unexpected IOException with stream: 
+
+

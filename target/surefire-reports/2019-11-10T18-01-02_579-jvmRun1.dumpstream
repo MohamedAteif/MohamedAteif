@@ -1,0 +1,574 @@
+# Created at 2019-11-10T18:01:32.489
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-11-10T18:01:32.963
+Unexpected IOException with stream: [32m[2019-11-10 18:01:32,962] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:538) - wait error message for long password, Trial No.: 8 
+
+[m
+
+# Created at 2019-11-10T18:01:33.983
+Unexpected IOException with stream: [32m[2019-11-10 18:01:33,982] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:538) - wait error message for long password, Trial No.: 9 
+
+[m
+
+# Created at 2019-11-10T18:01:35.001
+Unexpected IOException with stream: [32m[2019-11-10 18:01:35,000] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:538) - wait error message for long password, Trial No.: 10 
+
+[m
+
+# Created at 2019-11-10T18:01:36.020
+Unexpected IOException with stream: [32m[2019-11-10 18:01:36,019] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:538) - wait error message for long password, Trial No.: 11 
+
+[m
+
+# Created at 2019-11-10T18:01:37.041
+Unexpected IOException with stream: [32m[2019-11-10 18:01:37,040] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:538) - wait error message for long password, Trial No.: 12 
+
+[m
+
+# Created at 2019-11-10T18:01:38.058
+Unexpected IOException with stream: [32m[2019-11-10 18:01:38,057] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:538) - wait error message for long password, Trial No.: 13 
+
+[m
+
+# Created at 2019-11-10T18:01:39.075
+Unexpected IOException with stream: [32m[2019-11-10 18:01:39,074] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:538) - wait error message for long password, Trial No.: 14 
+
+[m
+
+# Created at 2019-11-10T18:01:40.095
+Unexpected IOException with stream: [32m[2019-11-10 18:01:40,094] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:538) - wait error message for long password, Trial No.: 15 
+
+[m
+
+# Created at 2019-11-10T18:01:41.114
+Unexpected IOException with stream: [32m[2019-11-10 18:01:41,113] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:538) - wait error message for long password, Trial No.: 16 
+
+[m
+
+# Created at 2019-11-10T18:01:42.131
+Unexpected IOException with stream: [32m[2019-11-10 18:01:42,130] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:538) - wait error message for long password, Trial No.: 17 
+
+[m
+
+# Created at 2019-11-10T18:01:43.148
+Unexpected IOException with stream: [32m[2019-11-10 18:01:43,147] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:538) - wait error message for long password, Trial No.: 18 
+
+[m
+
+# Created at 2019-11-10T18:01:44.166
+Unexpected IOException with stream: [32m[2019-11-10 18:01:44,165] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:538) - wait error message for long password, Trial No.: 19 
+
+[m
+
+# Created at 2019-11-10T18:01:45.185
+Unexpected IOException with stream: [32m[2019-11-10 18:01:45,184] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:538) - wait error message for long password, Trial No.: 20 
+
+[m
+
+# Created at 2019-11-10T18:01:45.186
+Unexpected IOException with stream: [1;31m[2019-11-10 18:01:45,185] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:542) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T18:01:45.194
+Unexpected IOException: 8,1,RegisteringNewCustomer.RegisterCustomerTestCases,registerationWithFiftyOneCharchtersPassword(RegisteringNewCustomer.RegisterCustomerTestCases),null,null,null,null,RegisterCustomerTestCases.registerationWithFiftyOneCharchtersPassword:543 null,java.lang.AssertionError: null\000A\0009at RegisteringNewCustomer.RegisterCustomerTestCases.registerationWithFiftyOneCharchtersPassword(RegisterCustomerTestCases.java:543)\000A
+
+
+# Created at 2019-11-10T18:01:45.196
+Unexpected IOException: 5,1,RegisteringNewCustomer.RegisterCustomerTestCases,registerationWithOnlyLettersPassword(RegisteringNewCustomer.RegisterCustomerTestCases),RegisteringNewCustomer.RegisterCustomerTestCases,null,null
+
+
+# Created at 2019-11-10T18:01:47.250
+Unexpected IOException with stream: [32m[2019-11-10 18:01:47,249] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:568) - OnlyLettersPassword is : asdfgh
+[m
+
+# Created at 2019-11-10T18:01:47.252
+Unexpected IOException with stream: [32m[2019-11-10 18:01:47,251] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:571) - Adding Email 
+
+[m
+
+# Created at 2019-11-10T18:01:47.290
+Unexpected IOException with stream: [1;31m[2019-11-10 18:01:47,288] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:574) - Can't Add Email org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='email']"}
+  (Session info: chrome=78.0.3904.97)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MOHAMEDATEIF', ip: '192.168.1.11', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\MiDo\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55112}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 78.0.3904.97, webStorageEnabled: true}
+Session ID: 3f1365c861729187b934121269dac028
+*** Element info: {Using=xpath, value=//input[@id='email']}
+[m
+
+# Created at 2019-11-10T18:01:47.293
+Unexpected IOException with stream: [32m[2019-11-10 18:01:47,292] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:578) - Adding password 
+
+[m
+
+# Created at 2019-11-10T18:01:47.319
+Unexpected IOException with stream: [1;31m[2019-11-10 18:01:47,317] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:581) - Can't Add password org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='password']"}
+  (Session info: chrome=78.0.3904.97)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MOHAMEDATEIF', ip: '192.168.1.11', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\MiDo\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55112}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 78.0.3904.97, webStorageEnabled: true}
+Session ID: 3f1365c861729187b934121269dac028
+*** Element info: {Using=xpath, value=//input[@id='password']}
+[m
+
+# Created at 2019-11-10T18:01:47.321
+Unexpected IOException with stream: [32m[2019-11-10 18:01:47,319] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:585) - confirm password 
+
+[m
+
+# Created at 2019-11-10T18:01:47.344
+Unexpected IOException with stream: [1;31m[2019-11-10 18:01:47,342] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:588) - Can't confirm password org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='passwordrepetition']"}
+  (Session info: chrome=78.0.3904.97)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MOHAMEDATEIF', ip: '192.168.1.11', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\MiDo\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55112}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 78.0.3904.97, webStorageEnabled: true}
+Session ID: 3f1365c861729187b934121269dac028
+*** Element info: {Using=xpath, value=//input[@id='passwordrepetition']}
+[m
+
+# Created at 2019-11-10T18:01:47.346
+Unexpected IOException with stream: [32m[2019-11-10 18:01:47,345] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:137) - Verifying password indicator for only letters password
+
+[m
+
+# Created at 2019-11-10T18:01:47.367
+Unexpected IOException with stream: [32m[2019-11-10 18:01:47,365] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:142) - Verification isn't done 
+
+[m
+
+# Created at 2019-11-10T18:01:47.368
+Unexpected IOException with stream: [1;31m[2019-11-10 18:01:47,367] [ERROR] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:143) - Verification Failed. 
+
+[m
+
+# Created at 2019-11-10T18:01:47.370
+Unexpected IOException with stream: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='indicator-text']"}
+  (Session info: chrome=78.0.3904.97)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MOHAMEDATEIF', ip: '192.168.1.11', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\MiDo\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55112}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 78.0.3904.97, webStorageEnabled: true}
+Session ID: 3f1365c861729187b934121269dac028
+*** Element info: {Using=xpath, value=//span[@id='indicator-text']}
+
+# Created at 2019-11-10T18:01:47.370
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.371
+Unexpected IOException with stream: 	at sun.reflect.GeneratedConstructorAccessor20.newInstance(Unknown Source)
+
+# Created at 2019-11-10T18:01:47.372
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.373
+Unexpected IOException with stream: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+# Created at 2019-11-10T18:01:47.373
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.374
+Unexpected IOException with stream: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+
+# Created at 2019-11-10T18:01:47.375
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.376
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+
+# Created at 2019-11-10T18:01:47.376
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.377
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+
+# Created at 2019-11-10T18:01:47.378
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.380
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+
+# Created at 2019-11-10T18:01:47.381
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.382
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+
+# Created at 2019-11-10T18:01:47.383
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.383
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+
+# Created at 2019-11-10T18:01:47.384
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.385
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+# Created at 2019-11-10T18:01:47.385
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.386
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2019-11-10T18:01:47.386
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.387
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+
+# Created at 2019-11-10T18:01:47.387
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.388
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
+
+# Created at 2019-11-10T18:01:47.389
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.390
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424)
+
+# Created at 2019-11-10T18:01:47.391
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.392
+Unexpected IOException with stream: 	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+
+# Created at 2019-11-10T18:01:47.392
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.393
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
+
+# Created at 2019-11-10T18:01:47.394
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.395
+Unexpected IOException with stream: 	at CommenUsedMethods.CommenMethods.Verify(CommenMethods.java:138)
+
+# Created at 2019-11-10T18:01:47.396
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.397
+Unexpected IOException with stream: 	at RegisteringNewCustomer.RegisterCustomerTestCases.registerationWithOnlyLettersPassword(RegisterCustomerTestCases.java:593)
+
+# Created at 2019-11-10T18:01:47.398
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.398
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+# Created at 2019-11-10T18:01:47.399
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.400
+Unexpected IOException with stream: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+
+# Created at 2019-11-10T18:01:47.401
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.402
+Unexpected IOException with stream: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2019-11-10T18:01:47.402
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.403
+Unexpected IOException with stream: 	at java.lang.reflect.Method.invoke(Method.java:498)
+
+# Created at 2019-11-10T18:01:47.404
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.405
+Unexpected IOException with stream: 	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+
+# Created at 2019-11-10T18:01:47.406
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.407
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+
+# Created at 2019-11-10T18:01:47.407
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.408
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+
+# Created at 2019-11-10T18:01:47.409
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.410
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+
+# Created at 2019-11-10T18:01:47.411
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.413
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+
+# Created at 2019-11-10T18:01:47.414
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.415
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+
+# Created at 2019-11-10T18:01:47.415
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.416
+Unexpected IOException with stream: 	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+
+# Created at 2019-11-10T18:01:47.417
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.417
+Unexpected IOException with stream: 	at org.testng.TestRunner.run(TestRunner.java:617)
+
+# Created at 2019-11-10T18:01:47.418
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.418
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+
+# Created at 2019-11-10T18:01:47.419
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.419
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+
+# Created at 2019-11-10T18:01:47.420
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.421
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+
+# Created at 2019-11-10T18:01:47.421
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.422
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+
+# Created at 2019-11-10T18:01:47.423
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.423
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+
+# Created at 2019-11-10T18:01:47.424
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.425
+Unexpected IOException with stream: 	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+
+# Created at 2019-11-10T18:01:47.426
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.427
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+
+# Created at 2019-11-10T18:01:47.428
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.428
+Unexpected IOException with stream: 	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+
+# Created at 2019-11-10T18:01:47.429
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.430
+Unexpected IOException with stream: 	at org.testng.TestNG.run(TestNG.java:1057)
+
+# Created at 2019-11-10T18:01:47.430
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.431
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+
+# Created at 2019-11-10T18:01:47.432
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.432
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+
+# Created at 2019-11-10T18:01:47.433
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.433
+Unexpected IOException with stream: 	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+
+# Created at 2019-11-10T18:01:47.434
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.435
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+
+# Created at 2019-11-10T18:01:47.435
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.436
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+
+# Created at 2019-11-10T18:01:47.436
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.437
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+
+# Created at 2019-11-10T18:01:47.438
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.438
+Unexpected IOException with stream: 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+# Created at 2019-11-10T18:01:47.439
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T18:01:47.440
+Unexpected IOException with stream: [32m[2019-11-10 18:01:47,439] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 0 
+
+[m
+
+# Created at 2019-11-10T18:01:48.461
+Unexpected IOException with stream: [32m[2019-11-10 18:01:48,460] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 1 
+
+[m
+
+# Created at 2019-11-10T18:01:49.480
+Unexpected IOException with stream: [32m[2019-11-10 18:01:49,479] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 2 
+
+[m
+
+# Created at 2019-11-10T18:01:50.505
+Unexpected IOException with stream: [32m[2019-11-10 18:01:50,504] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 3 
+
+[m
+
+# Created at 2019-11-10T18:01:51.522
+Unexpected IOException with stream: [32m[2019-11-10 18:01:51,521] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 4 
+
+[m
+
+# Created at 2019-11-10T18:01:52.541
+Unexpected IOException with stream: [32m[2019-11-10 18:01:52,540] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 5 
+
+[m
+
+# Created at 2019-11-10T18:01:53.559
+Unexpected IOException with stream: [32m[2019-11-10 18:01:53,558] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 6 
+
+[m
+
+# Created at 2019-11-10T18:01:54.577
+Unexpected IOException with stream: [32m[2019-11-10 18:01:54,576] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 7 
+
+[m
+
+# Created at 2019-11-10T18:01:55.595
+Unexpected IOException with stream: [32m[2019-11-10 18:01:55,594] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 8 
+
+[m
+
+# Created at 2019-11-10T18:01:56.612
+Unexpected IOException with stream: [32m[2019-11-10 18:01:56,611] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 9 
+
+[m
+
+# Created at 2019-11-10T18:01:57.629
+Unexpected IOException with stream: [32m[2019-11-10 18:01:57,628] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 10 
+
+[m
+
+# Created at 2019-11-10T18:01:58.649
+Unexpected IOException with stream: [32m[2019-11-10 18:01:58,648] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 11 
+
+[m
+
+# Created at 2019-11-10T18:01:59.666
+Unexpected IOException with stream: [32m[2019-11-10 18:01:59,665] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 12 
+
+[m
+
+# Created at 2019-11-10T18:02:00.686
+Unexpected IOException with stream: [32m[2019-11-10 18:02:00,685] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 13 
+
+[m
+
+# Created at 2019-11-10T18:02:01.704
+Unexpected IOException with stream: [32m[2019-11-10 18:02:01,703] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 14 
+
+[m
+
+# Created at 2019-11-10T18:02:02.721
+Unexpected IOException with stream: [32m[2019-11-10 18:02:02,720] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait submit button, Trial No.: 15 
+
+[m
+

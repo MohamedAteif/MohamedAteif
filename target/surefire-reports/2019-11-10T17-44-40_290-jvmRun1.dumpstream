@@ -1,0 +1,441 @@
+# Created at 2019-11-10T17:46:52.085
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-11-10T17:46:53.016
+Unexpected IOException with stream: [32m[2019-11-10 17:46:53,014] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 78 
+
+[m
+
+# Created at 2019-11-10T17:46:53.018
+Unexpected IOException with stream: [1;31m[2019-11-10 17:46:53,016] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:46:54.035
+Unexpected IOException with stream: [32m[2019-11-10 17:46:54,035] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 79 
+
+[m
+
+# Created at 2019-11-10T17:46:54.036
+Unexpected IOException with stream: [1;31m[2019-11-10 17:46:54,035] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:46:55.056
+Unexpected IOException with stream: [32m[2019-11-10 17:46:55,055] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 80 
+
+[m
+
+# Created at 2019-11-10T17:46:55.057
+Unexpected IOException with stream: [1;31m[2019-11-10 17:46:55,056] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:46:56.081
+Unexpected IOException with stream: [32m[2019-11-10 17:46:56,080] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 81 
+
+[m
+
+# Created at 2019-11-10T17:46:56.082
+Unexpected IOException with stream: [1;31m[2019-11-10 17:46:56,081] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:46:57.100
+Unexpected IOException with stream: [32m[2019-11-10 17:46:57,099] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 82 
+
+[m
+
+# Created at 2019-11-10T17:46:57.101
+Unexpected IOException with stream: [1;31m[2019-11-10 17:46:57,100] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:46:58.120
+Unexpected IOException with stream: [32m[2019-11-10 17:46:58,120] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 83 
+
+[m
+
+# Created at 2019-11-10T17:46:58.121
+Unexpected IOException with stream: [1;31m[2019-11-10 17:46:58,120] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:46:59.137
+Unexpected IOException with stream: [32m[2019-11-10 17:46:59,136] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 84 
+
+[m
+
+# Created at 2019-11-10T17:46:59.138
+Unexpected IOException with stream: [1;31m[2019-11-10 17:46:59,137] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:00.154
+Unexpected IOException with stream: [32m[2019-11-10 17:47:00,153] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 85 
+
+[m
+
+# Created at 2019-11-10T17:47:00.155
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:00,154] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:01.172
+Unexpected IOException with stream: [32m[2019-11-10 17:47:01,171] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 86 
+
+[m
+
+# Created at 2019-11-10T17:47:01.173
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:01,172] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:02.189
+Unexpected IOException with stream: [32m[2019-11-10 17:47:02,188] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 87 
+
+[m
+
+# Created at 2019-11-10T17:47:02.190
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:02,189] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:03.207
+Unexpected IOException with stream: [32m[2019-11-10 17:47:03,206] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 88 
+
+[m
+
+# Created at 2019-11-10T17:47:03.208
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:03,207] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:04.227
+Unexpected IOException with stream: [32m[2019-11-10 17:47:04,226] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 89 
+
+[m
+
+# Created at 2019-11-10T17:47:04.228
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:04,227] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:05.245
+Unexpected IOException with stream: [32m[2019-11-10 17:47:05,244] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 90 
+
+[m
+
+# Created at 2019-11-10T17:47:05.246
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:05,245] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:06.263
+Unexpected IOException with stream: [32m[2019-11-10 17:47:06,262] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 91 
+
+[m
+
+# Created at 2019-11-10T17:47:06.264
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:06,263] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:07.281
+Unexpected IOException with stream: [32m[2019-11-10 17:47:07,280] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 92 
+
+[m
+
+# Created at 2019-11-10T17:47:07.282
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:07,281] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:08.299
+Unexpected IOException with stream: [32m[2019-11-10 17:47:08,298] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 93 
+
+[m
+
+# Created at 2019-11-10T17:47:08.300
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:08,299] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:09.317
+Unexpected IOException with stream: [32m[2019-11-10 17:47:09,316] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 94 
+
+[m
+
+# Created at 2019-11-10T17:47:09.318
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:09,317] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:10.334
+Unexpected IOException with stream: [32m[2019-11-10 17:47:10,333] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 95 
+
+[m
+
+# Created at 2019-11-10T17:47:10.335
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:10,334] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:11.352
+Unexpected IOException with stream: [32m[2019-11-10 17:47:11,351] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 96 
+
+[m
+
+# Created at 2019-11-10T17:47:11.353
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:11,352] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:12.368
+Unexpected IOException with stream: [32m[2019-11-10 17:47:12,367] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 97 
+
+[m
+
+# Created at 2019-11-10T17:47:12.369
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:12,368] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:13.385
+Unexpected IOException with stream: [32m[2019-11-10 17:47:13,384] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 98 
+
+[m
+
+# Created at 2019-11-10T17:47:13.386
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:13,385] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:14.402
+Unexpected IOException with stream: [32m[2019-11-10 17:47:14,401] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 99 
+
+[m
+
+# Created at 2019-11-10T17:47:14.403
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:14,402] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:15.421
+Unexpected IOException with stream: [32m[2019-11-10 17:47:15,420] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 100 
+
+[m
+
+# Created at 2019-11-10T17:47:15.422
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:15,421] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:16.440
+Unexpected IOException with stream: [32m[2019-11-10 17:47:16,439] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 101 
+
+[m
+
+# Created at 2019-11-10T17:47:16.441
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:16,440] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:17.458
+Unexpected IOException with stream: [32m[2019-11-10 17:47:17,457] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 102 
+
+[m
+
+# Created at 2019-11-10T17:47:17.459
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:17,458] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:18.475
+Unexpected IOException with stream: [32m[2019-11-10 17:47:18,474] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 103 
+
+[m
+
+# Created at 2019-11-10T17:47:18.476
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:18,475] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:19.494
+Unexpected IOException with stream: [32m[2019-11-10 17:47:19,493] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 104 
+
+[m
+
+# Created at 2019-11-10T17:47:19.495
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:19,494] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:20.514
+Unexpected IOException with stream: [32m[2019-11-10 17:47:20,513] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 105 
+
+[m
+
+# Created at 2019-11-10T17:47:20.516
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:20,514] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:21.535
+Unexpected IOException with stream: [32m[2019-11-10 17:47:21,534] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 106 
+
+[m
+
+# Created at 2019-11-10T17:47:21.536
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:21,535] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:22.552
+Unexpected IOException with stream: [32m[2019-11-10 17:47:22,551] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 107 
+
+[m
+
+# Created at 2019-11-10T17:47:22.554
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:22,553] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:23.597
+Unexpected IOException with stream: [32m[2019-11-10 17:47:23,596] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 108 
+
+[m
+
+# Created at 2019-11-10T17:47:23.599
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:23,598] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:24.634
+Unexpected IOException with stream: [32m[2019-11-10 17:47:24,632] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 109 
+
+[m
+
+# Created at 2019-11-10T17:47:24.635
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:24,634] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:25.686
+Unexpected IOException with stream: [32m[2019-11-10 17:47:25,685] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 110 
+
+[m
+
+# Created at 2019-11-10T17:47:25.687
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:25,686] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:26.709
+Unexpected IOException with stream: [32m[2019-11-10 17:47:26,707] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 111 
+
+[m
+
+# Created at 2019-11-10T17:47:26.717
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:26,710] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:27.760
+Unexpected IOException with stream: [32m[2019-11-10 17:47:27,759] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 112 
+
+[m
+
+# Created at 2019-11-10T17:47:27.762
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:27,760] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:28.789
+Unexpected IOException with stream: [32m[2019-11-10 17:47:28,781] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 113 
+
+[m
+
+# Created at 2019-11-10T17:47:28.791
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:28,789] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:29.866
+Unexpected IOException with stream: [32m[2019-11-10 17:47:29,865] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 114 
+
+[m
+
+# Created at 2019-11-10T17:47:29.867
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:29,866] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:30.907
+Unexpected IOException with stream: [32m[2019-11-10 17:47:30,895] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 115 
+
+[m
+
+# Created at 2019-11-10T17:47:30.909
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:30,908] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:31.927
+Unexpected IOException with stream: [32m[2019-11-10 17:47:31,926] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 116 
+
+[m
+
+# Created at 2019-11-10T17:47:31.928
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:31,927] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:32.949
+Unexpected IOException with stream: [32m[2019-11-10 17:47:32,948] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 117 
+
+[m
+
+# Created at 2019-11-10T17:47:32.966
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:32,965] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:34.042
+Unexpected IOException with stream: [32m[2019-11-10 17:47:33,993] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 118 
+
+[m
+
+# Created at 2019-11-10T17:47:34.044
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:34,043] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:35.061
+Unexpected IOException with stream: [32m[2019-11-10 17:47:35,060] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 119 
+
+[m
+
+# Created at 2019-11-10T17:47:35.062
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:35,061] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:36.082
+Unexpected IOException with stream: [32m[2019-11-10 17:47:36,081] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 120 
+
+[m
+
+# Created at 2019-11-10T17:47:36.084
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:36,082] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:37.100
+Unexpected IOException with stream: [32m[2019-11-10 17:47:37,099] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 121 
+
+[m
+
+# Created at 2019-11-10T17:47:37.165
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:37,164] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:38.183
+Unexpected IOException with stream: [32m[2019-11-10 17:47:38,182] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 122 
+
+[m
+
+# Created at 2019-11-10T17:47:38.185
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:38,183] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:39.205
+Unexpected IOException with stream: [32m[2019-11-10 17:47:39,204] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 123 
+
+[m
+
+# Created at 2019-11-10T17:47:39.207
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:39,206] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:40.235
+Unexpected IOException with stream: [32m[2019-11-10 17:47:40,234] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 124 
+
+[m
+
+# Created at 2019-11-10T17:47:40.236
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:40,235] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+
+# Created at 2019-11-10T17:47:41.252
+Unexpected IOException with stream: [32m[2019-11-10 17:47:41,251] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:536) - wait error message for long password, Trial No.: 125 
+
+[m
+
+# Created at 2019-11-10T17:47:41.253
+Unexpected IOException with stream: [1;31m[2019-11-10 17:47:41,252] [ERROR] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:540) - error message for long password isn't Found.
+[m
+

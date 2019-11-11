@@ -1,0 +1,152 @@
+# Created at 2019-11-10T21:57:15.461
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-11-10T21:57:16.397
+Unexpected IOException with stream: [32m[2019-11-10 21:57:16,392] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait cookie Alert, Trial No.: 0 
+
+[m
+
+# Created at 2019-11-10T21:57:16.564
+Unexpected IOException: 5,1,TravelSearch.TravelSearchTestCases,searchForFlight(TravelSearch.TravelSearchTestCases),TravelSearch.TravelSearchTestCases,null,null
+
+
+# Created at 2019-11-10T21:57:16.566
+Unexpected IOException with stream: [32m[2019-11-10 21:57:16,565] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:122) - Clicking Travel Section
+[m
+
+# Created at 2019-11-10T21:57:21.793
+Unexpected IOException with stream: [32m[2019-11-10 21:57:21,791] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 0 
+
+[m
+
+# Created at 2019-11-10T21:57:22.824
+Unexpected IOException with stream: [32m[2019-11-10 21:57:22,823] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 1 
+
+[m
+
+# Created at 2019-11-10T21:57:23.830
+Unexpected IOException with stream: [32m[2019-11-10 21:57:23,829] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 2 
+
+[m
+
+# Created at 2019-11-10T21:57:24.839
+Unexpected IOException with stream: [32m[2019-11-10 21:57:24,838] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 3 
+
+[m
+
+# Created at 2019-11-10T21:57:25.848
+Unexpected IOException with stream: [32m[2019-11-10 21:57:25,847] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 4 
+
+[m
+
+# Created at 2019-11-10T21:57:26.857
+Unexpected IOException with stream: [32m[2019-11-10 21:57:26,856] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 5 
+
+[m
+
+# Created at 2019-11-10T21:57:27.863
+Unexpected IOException with stream: [32m[2019-11-10 21:57:27,862] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 6 
+
+[m
+
+# Created at 2019-11-10T21:57:28.871
+Unexpected IOException with stream: [32m[2019-11-10 21:57:28,870] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 7 
+
+[m
+
+# Created at 2019-11-10T21:57:29.880
+Unexpected IOException with stream: [32m[2019-11-10 21:57:29,879] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 8 
+
+[m
+
+# Created at 2019-11-10T21:57:30.889
+Unexpected IOException with stream: [32m[2019-11-10 21:57:30,888] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 9 
+
+[m
+
+# Created at 2019-11-10T21:57:31.896
+Unexpected IOException with stream: [32m[2019-11-10 21:57:31,895] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 10 
+
+[m
+
+# Created at 2019-11-10T21:57:32.905
+Unexpected IOException with stream: [32m[2019-11-10 21:57:32,904] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 11 
+
+[m
+
+# Created at 2019-11-10T21:57:33.918
+Unexpected IOException with stream: [32m[2019-11-10 21:57:33,917] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 12 
+
+[m
+
+# Created at 2019-11-10T21:57:34.928
+Unexpected IOException with stream: [32m[2019-11-10 21:57:34,927] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 13 
+
+[m
+
+# Created at 2019-11-10T21:57:35.980
+Unexpected IOException with stream: [32m[2019-11-10 21:57:35,979] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 14 
+
+[m
+
+# Created at 2019-11-10T21:57:37.042
+Unexpected IOException with stream: [32m[2019-11-10 21:57:37,041] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 15 
+
+[m
+
+# Created at 2019-11-10T21:57:38.128
+Unexpected IOException with stream: [32m[2019-11-10 21:57:38,127] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 16 
+
+[m
+
+# Created at 2019-11-10T21:57:39.292
+Unexpected IOException with stream: [32m[2019-11-10 21:57:39,290] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 17 
+
+[m
+
+# Created at 2019-11-10T21:57:40.435
+Unexpected IOException with stream: [32m[2019-11-10 21:57:40,434] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 18 
+
+[m
+
+# Created at 2019-11-10T21:57:41.467
+Unexpected IOException with stream: [32m[2019-11-10 21:57:41,465] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 19 
+
+[m
+
+# Created at 2019-11-10T21:57:42.481
+Unexpected IOException with stream: [32m[2019-11-10 21:57:42,480] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 20 
+
+[m
+
+# Created at 2019-11-10T21:57:43.488
+Unexpected IOException with stream: [32m[2019-11-10 21:57:43,487] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 21 
+
+[m
+
+# Created at 2019-11-10T21:57:44.494
+Unexpected IOException with stream: [32m[2019-11-10 21:57:44,493] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 22 
+
+[m
+
+# Created at 2019-11-10T21:57:45.505
+Unexpected IOException with stream: [32m[2019-11-10 21:57:45,503] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 23 
+
+[m
+
+# Created at 2019-11-10T21:57:46.548
+Unexpected IOException with stream: [32m[2019-11-10 21:57:46,547] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 24 
+
+[m
+
+# Created at 2019-11-10T21:57:47.604
+Unexpected IOException with stream: [32m[2019-11-10 21:57:47,601] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:101) - wait Destination Field, Trial No.: 25 
+
+[m
+

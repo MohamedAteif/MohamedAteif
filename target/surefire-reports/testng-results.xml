@@ -1,25 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="17" passed="17">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="6745" started-at="2019-11-09T17:37:56Z" finished-at="2019-11-09T17:38:03Z">
+  <suite name="Default suite" duration-ms="129142" started-at="2019-11-11T21:15:53Z" finished-at="2019-11-11T21:18:02Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="6745" started-at="2019-11-09T17:37:56Z" finished-at="2019-11-09T17:38:03Z">
+    <test name="Default test" duration-ms="88704" started-at="2019-11-11T21:15:53Z" finished-at="2019-11-11T21:17:21Z">
       <class name="RegisteringNewCustomer.RegisterCustomerTestCases">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@5136d012]" name="setUp" is-config="true" duration-ms="6010" started-at="2019-11-09T19:37:56Z" finished-at="2019-11-09T19:38:02Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="setUp" is-config="true" duration-ms="11885" started-at="2019-11-11T23:15:53Z" finished-at="2019-11-11T23:16:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="oneMoreTest()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@5136d012]" name="oneMoreTest" duration-ms="1" started-at="2019-11-09T19:38:02Z" finished-at="2019-11-09T19:38:02Z">
+        <test-method status="PASS" signature="createNewUserButton()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="createNewUserButton" duration-ms="2806" started-at="2019-11-11T23:16:05Z" finished-at="2019-11-11T23:16:07Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- oneMoreTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@5136d012]" name="tearDown" is-config="true" duration-ms="728" started-at="2019-11-09T19:38:02Z" finished-at="2019-11-09T19:38:03Z">
+        </test-method> <!-- createNewUserButton -->
+        <test-method status="PASS" signature="registerationHappyPath()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="registerationHappyPath" duration-ms="12000" started-at="2019-11-11T23:16:07Z" finished-at="2019-11-11T23:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationHappyPath -->
+        <test-method status="PASS" signature="registerationWithNotEmailString()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="registerationWithNotEmailString" duration-ms="2371" started-at="2019-11-11T23:16:19Z" finished-at="2019-11-11T23:16:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationWithNotEmailString -->
+        <test-method status="PASS" signature="registerationWithEmptyEmailField()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="registerationWithEmptyEmailField" duration-ms="2168" started-at="2019-11-11T23:16:22Z" finished-at="2019-11-11T23:16:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationWithEmptyEmailField -->
+        <test-method status="PASS" signature="registerationWithEmptyPassword()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="registerationWithEmptyPassword" duration-ms="2853" started-at="2019-11-11T23:16:24Z" finished-at="2019-11-11T23:16:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationWithEmptyPassword -->
+        <test-method status="PASS" signature="registerationWithEmptyPasswordConfirmationField()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="registerationWithEmptyPasswordConfirmationField" duration-ms="2780" started-at="2019-11-11T23:16:27Z" finished-at="2019-11-11T23:16:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationWithEmptyPasswordConfirmationField -->
+        <test-method status="PASS" signature="registerationWithEmptyPasswordAndEmptyConfirmation()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="registerationWithEmptyPasswordAndEmptyConfirmation" duration-ms="2676" started-at="2019-11-11T23:16:30Z" finished-at="2019-11-11T23:16:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationWithEmptyPasswordAndEmptyConfirmation -->
+        <test-method status="PASS" signature="registerationWithFiveCharchtersPassword()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="registerationWithFiveCharchtersPassword" duration-ms="3102" started-at="2019-11-11T23:16:32Z" finished-at="2019-11-11T23:16:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationWithFiveCharchtersPassword -->
+        <test-method status="PASS" signature="registerationWithFiftyOneCharchtersPassword()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="registerationWithFiftyOneCharchtersPassword" duration-ms="6629" started-at="2019-11-11T23:16:35Z" finished-at="2019-11-11T23:16:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationWithFiftyOneCharchtersPassword -->
+        <test-method status="PASS" signature="registerationWithOnlyLettersPassword()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="registerationWithOnlyLettersPassword" duration-ms="5520" started-at="2019-11-11T23:16:42Z" finished-at="2019-11-11T23:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationWithOnlyLettersPassword -->
+        <test-method status="PASS" signature="registerationWithOnlyNumbersPassword()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="registerationWithOnlyNumbersPassword" duration-ms="5732" started-at="2019-11-11T23:16:48Z" finished-at="2019-11-11T23:16:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationWithOnlyNumbersPassword -->
+        <test-method status="PASS" signature="registerationWithOnlySpecialCharchtersPassword()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="registerationWithOnlySpecialCharchtersPassword" duration-ms="5757" started-at="2019-11-11T23:16:53Z" finished-at="2019-11-11T23:16:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationWithOnlySpecialCharchtersPassword -->
+        <test-method status="PASS" signature="registerationWithPasswordSimilarToEmail()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="registerationWithPasswordSimilarToEmail" duration-ms="5477" started-at="2019-11-11T23:16:59Z" finished-at="2019-11-11T23:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationWithPasswordSimilarToEmail -->
+        <test-method status="PASS" signature="registerationWithPreviouslyUsedEmail()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="registerationWithPreviouslyUsedEmail" duration-ms="5833" started-at="2019-11-11T23:17:05Z" finished-at="2019-11-11T23:17:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationWithPreviouslyUsedEmail -->
+        <test-method status="PASS" signature="registerationWithEasyToGuessPassword()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="registerationWithEasyToGuessPassword" duration-ms="5897" started-at="2019-11-11T23:17:10Z" finished-at="2019-11-11T23:17:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationWithEasyToGuessPassword -->
+        <test-method status="PASS" signature="registerationTermsOfUseAndPrivacy()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="registerationTermsOfUseAndPrivacy" duration-ms="4355" started-at="2019-11-11T23:17:16Z" finished-at="2019-11-11T23:17:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerationTermsOfUseAndPrivacy -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:RegisteringNewCustomer.RegisterCustomerTestCases@6b8ca3c8]" name="tearDown" is-config="true" duration-ms="842" started-at="2019-11-11T23:17:21Z" finished-at="2019-11-11T23:17:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- RegisteringNewCustomer.RegisterCustomerTestCases -->
     </test> <!-- Default test -->
+    <test name="Default test1" duration-ms="40407" started-at="2019-11-11T21:17:22Z" finished-at="2019-11-11T21:18:02Z">
+      <class name="TravelSearch.TravelSearchTestCases">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TravelSearch.TravelSearchTestCases@cad498c]" name="setUp" is-config="true" duration-ms="12394" started-at="2019-11-11T23:17:22Z" finished-at="2019-11-11T23:17:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchForFlight()[pri:0, instance:TravelSearch.TravelSearchTestCases@cad498c]" name="searchForFlight" duration-ms="25248" started-at="2019-11-11T23:17:34Z" finished-at="2019-11-11T23:17:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForFlight -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TravelSearch.TravelSearchTestCases@cad498c]" name="tearDown" is-config="true" duration-ms="2764" started-at="2019-11-11T23:17:59Z" finished-at="2019-11-11T23:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TravelSearch.TravelSearchTestCases -->
+    </test> <!-- Default test1 -->
   </suite> <!-- Default suite -->
 </testng-results>

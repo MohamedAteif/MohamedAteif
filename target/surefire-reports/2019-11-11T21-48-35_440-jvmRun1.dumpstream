@@ -1,0 +1,164 @@
+# Created at 2019-11-11T21:49:34.184
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-11-11T21:49:34.604
+Unexpected IOException with stream: [32m[2019-11-11 21:49:34,603] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 12 
+
+[m
+
+# Created at 2019-11-11T21:49:35.624
+Unexpected IOException with stream: [32m[2019-11-11 21:49:35,623] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 13 
+
+[m
+
+# Created at 2019-11-11T21:49:36.643
+Unexpected IOException with stream: [32m[2019-11-11 21:49:36,642] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 14 
+
+[m
+
+# Created at 2019-11-11T21:49:37.660
+Unexpected IOException with stream: [32m[2019-11-11 21:49:37,659] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 15 
+
+[m
+
+# Created at 2019-11-11T21:49:38.683
+Unexpected IOException with stream: [32m[2019-11-11 21:49:38,682] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 16 
+
+[m
+
+# Created at 2019-11-11T21:49:39.704
+Unexpected IOException with stream: [32m[2019-11-11 21:49:39,703] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 17 
+
+[m
+
+# Created at 2019-11-11T21:49:40.724
+Unexpected IOException with stream: [32m[2019-11-11 21:49:40,723] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 18 
+
+[m
+
+# Created at 2019-11-11T21:49:41.742
+Unexpected IOException with stream: [32m[2019-11-11 21:49:41,741] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 19 
+
+[m
+
+# Created at 2019-11-11T21:49:42.764
+Unexpected IOException with stream: [32m[2019-11-11 21:49:42,763] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 20 
+
+[m
+
+# Created at 2019-11-11T21:49:43.783
+Unexpected IOException with stream: [32m[2019-11-11 21:49:43,782] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 21 
+
+[m
+
+# Created at 2019-11-11T21:49:44.803
+Unexpected IOException with stream: [32m[2019-11-11 21:49:44,802] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 22 
+
+[m
+
+# Created at 2019-11-11T21:49:45.821
+Unexpected IOException with stream: [32m[2019-11-11 21:49:45,820] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 23 
+
+[m
+
+# Created at 2019-11-11T21:49:46.842
+Unexpected IOException with stream: [32m[2019-11-11 21:49:46,841] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 24 
+
+[m
+
+# Created at 2019-11-11T21:49:47.864
+Unexpected IOException with stream: [32m[2019-11-11 21:49:47,863] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 25 
+
+[m
+
+# Created at 2019-11-11T21:49:48.883
+Unexpected IOException with stream: [32m[2019-11-11 21:49:48,882] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 26 
+
+[m
+
+# Created at 2019-11-11T21:49:49.901
+Unexpected IOException with stream: [32m[2019-11-11 21:49:49,900] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 27 
+
+[m
+
+# Created at 2019-11-11T21:49:50.925
+Unexpected IOException with stream: [32m[2019-11-11 21:49:50,924] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 28 
+
+[m
+
+# Created at 2019-11-11T21:49:51.948
+Unexpected IOException with stream: [32m[2019-11-11 21:49:51,947] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 29 
+
+[m
+
+# Created at 2019-11-11T21:49:52.974
+Unexpected IOException with stream: [32m[2019-11-11 21:49:52,973] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 30 
+
+[m
+
+# Created at 2019-11-11T21:49:53.993
+Unexpected IOException with stream: [32m[2019-11-11 21:49:53,992] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 31 
+
+[m
+
+# Created at 2019-11-11T21:49:55.012
+Unexpected IOException with stream: [32m[2019-11-11 21:49:55,011] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 32 
+
+[m
+
+# Created at 2019-11-11T21:49:56.036
+Unexpected IOException with stream: [32m[2019-11-11 21:49:56,035] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 33 
+
+[m
+
+# Created at 2019-11-11T21:49:57.057
+Unexpected IOException with stream: [32m[2019-11-11 21:49:57,056] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 34 
+
+[m
+
+# Created at 2019-11-11T21:49:58.170
+Unexpected IOException with stream: [32m[2019-11-11 21:49:58,169] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 35 
+
+[m
+
+# Created at 2019-11-11T21:49:59.285
+Unexpected IOException with stream: [32m[2019-11-11 21:49:59,284] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 36 
+
+[m
+
+# Created at 2019-11-11T21:50:00.442
+Unexpected IOException with stream: [32m[2019-11-11 21:50:00,441] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 37 
+
+[m
+
+# Created at 2019-11-11T21:50:01.538
+Unexpected IOException with stream: [32m[2019-11-11 21:50:01,537] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 38 
+
+[m
+
+# Created at 2019-11-11T21:50:02.610
+Unexpected IOException with stream: [32m[2019-11-11 21:50:02,609] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 39 
+
+[m
+
+# Created at 2019-11-11T21:50:03.877
+Unexpected IOException with stream: [32m[2019-11-11 21:50:03,867] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 40 
+
+[m
+
+# Created at 2019-11-11T21:50:04.905
+Unexpected IOException with stream: [32m[2019-11-11 21:50:04,903] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 41 
+
+[m
+
+# Created at 2019-11-11T21:50:05.946
+Unexpected IOException with stream: [32m[2019-11-11 21:50:05,945] [INFO ] [main] CommenUsedMethods.CommenMethods (CommenMethods.java:104) - wait loading bar to finish, Trial No.: 42 
+
+[m
+

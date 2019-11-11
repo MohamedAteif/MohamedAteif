@@ -1,0 +1,141 @@
+# Created at 2019-11-10T03:02:12.409
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-11-10T03:02:20.293
+Unexpected IOException with stream: [32m[2019-11-10 03:02:20,292] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:212) - wait submit button, Trial No.: 0 
+
+[m
+
+# Created at 2019-11-10T03:02:21.141
+Unexpected IOException: 6,1,RegisteringNewCustomer.RegisterCustomerTestCases,registerationHappyPath(RegisteringNewCustomer.RegisterCustomerTestCases),null,null,null
+
+
+# Created at 2019-11-10T03:02:21.143
+Unexpected IOException: 5,1,RegisteringNewCustomer.RegisterCustomerTestCases,registerationWithNotEmailString(RegisteringNewCustomer.RegisterCustomerTestCases),RegisteringNewCustomer.RegisterCustomerTestCases,null,null
+
+
+# Created at 2019-11-10T03:02:21.639
+Unexpected IOException with stream: [32m[2019-11-10 03:02:21,638] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:323) - Adding NonEmail String 
+
+[m
+
+# Created at 2019-11-10T03:02:21.802
+Unexpected IOException with stream: [32m[2019-11-10 03:02:21,800] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:330) - Adding password 
+
+[m
+
+# Created at 2019-11-10T03:02:21.985
+Unexpected IOException with stream: [32m[2019-11-10 03:02:21,984] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:337) - confirm password 
+
+[m
+
+# Created at 2019-11-10T03:02:22.127
+Unexpected IOException with stream: [32m[2019-11-10 03:02:22,126] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:346) - Verifying that password indicator is working 
+
+[m
+
+# Created at 2019-11-10T03:02:22.164
+Unexpected IOException with stream: [32m[2019-11-10 03:02:22,163] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:349) - Verification is Successfully done 
+
+[m
+
+# Created at 2019-11-10T03:02:22.165
+Unexpected IOException with stream: [32m[2019-11-10 03:02:22,164] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:359) - wait submit button, Trial No.: 0 
+
+[m
+
+# Created at 2019-11-10T03:02:22.180
+Unexpected IOException with stream: [32m[2019-11-10 03:02:22,179] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:377) - Clicking register now button
+[m
+
+# Created at 2019-11-10T03:02:22.278
+Unexpected IOException with stream: [32m[2019-11-10 03:02:22,276] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:390) - wait error desc message , Trial No.: 0 
+
+[m
+
+# Created at 2019-11-10T03:02:23.336
+Unexpected IOException with stream: [32m[2019-11-10 03:02:23,335] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:390) - wait error desc message , Trial No.: 1 
+
+[m
+
+# Created at 2019-11-10T03:02:23.356
+Unexpected IOException with stream: [32m[2019-11-10 03:02:23,355] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:409) - Verifying the error desc message  
+
+[m
+
+# Created at 2019-11-10T03:02:23.395
+Unexpected IOException with stream: [32m[2019-11-10 03:02:23,393] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:412) - Verification is Successfully done 
+
+[m
+
+# Created at 2019-11-10T03:02:23.396
+Unexpected IOException: 6,1,RegisteringNewCustomer.RegisterCustomerTestCases,registerationWithNotEmailString(RegisteringNewCustomer.RegisterCustomerTestCases),null,null,null
+
+
+# Created at 2019-11-10T03:02:26.366
+Unexpected IOException with stream: PASSED: createNewUserButton
+
+# Created at 2019-11-10T03:02:26.367
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T03:02:26.368
+Unexpected IOException with stream: PASSED: registerationHappyPath
+
+# Created at 2019-11-10T03:02:26.369
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T03:02:26.371
+Unexpected IOException with stream: PASSED: registerationWithNotEmailString
+
+# Created at 2019-11-10T03:02:26.372
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T03:02:26.373
+Unexpected IOException with stream: 
+===============================================
+    Default test
+    Tests run: 3, Failures: 0, Skips: 0
+===============================================
+
+
+# Created at 2019-11-10T03:02:26.375
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-10T03:02:26.387
+Unexpected IOException with stream: [TestNG] Time taken by org.testng.reporters.XMLReporter@79698539: 9 ms
+
+
+# Created at 2019-11-10T03:02:26.396
+Unexpected IOException with stream: [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4e04a765: 8 ms
+
+
+# Created at 2019-11-10T03:02:26.404
+Unexpected IOException with stream: [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5f2050f6: 7 ms
+
+
+# Created at 2019-11-10T03:02:26.444
+Unexpected IOException with stream: [TestNG] Time taken by org.testng.reporters.jq.Main@13969fbe: 39 ms
+
+
+# Created at 2019-11-10T03:02:26.445
+Unexpected IOException with stream: [TestNG] Time taken by [FailedReporter passed=0 failed=0 skipped=0]: 1 ms
+
+
+# Created at 2019-11-10T03:02:26.510
+Unexpected IOException with stream: [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1554909b: 63 ms
+
+
+# Created at 2019-11-10T03:02:26.511
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

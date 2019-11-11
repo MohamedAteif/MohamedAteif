@@ -1,0 +1,214 @@
+# Created at 2019-11-10T02:34:11.448
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-11-10T02:34:11.677
+Unexpected IOException with stream: [32m[2019-11-10 02:34:11,676] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 2 
+
+[m
+
+# Created at 2019-11-10T02:34:12.698
+Unexpected IOException with stream: [32m[2019-11-10 02:34:12,697] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 3 
+
+[m
+
+# Created at 2019-11-10T02:34:13.720
+Unexpected IOException with stream: [32m[2019-11-10 02:34:13,719] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 4 
+
+[m
+
+# Created at 2019-11-10T02:34:14.739
+Unexpected IOException with stream: [32m[2019-11-10 02:34:14,738] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 5 
+
+[m
+
+# Created at 2019-11-10T02:34:15.756
+Unexpected IOException with stream: [32m[2019-11-10 02:34:15,755] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 6 
+
+[m
+
+# Created at 2019-11-10T02:34:16.774
+Unexpected IOException with stream: [32m[2019-11-10 02:34:16,773] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 7 
+
+[m
+
+# Created at 2019-11-10T02:34:17.791
+Unexpected IOException with stream: [32m[2019-11-10 02:34:17,790] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 8 
+
+[m
+
+# Created at 2019-11-10T02:34:18.818
+Unexpected IOException with stream: [32m[2019-11-10 02:34:18,817] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 9 
+
+[m
+
+# Created at 2019-11-10T02:34:19.835
+Unexpected IOException with stream: [32m[2019-11-10 02:34:19,834] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 10 
+
+[m
+
+# Created at 2019-11-10T02:34:20.853
+Unexpected IOException with stream: [32m[2019-11-10 02:34:20,852] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 11 
+
+[m
+
+# Created at 2019-11-10T02:34:21.871
+Unexpected IOException with stream: [32m[2019-11-10 02:34:21,870] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 12 
+
+[m
+
+# Created at 2019-11-10T02:34:22.888
+Unexpected IOException with stream: [32m[2019-11-10 02:34:22,887] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 13 
+
+[m
+
+# Created at 2019-11-10T02:34:23.904
+Unexpected IOException with stream: [32m[2019-11-10 02:34:23,903] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 14 
+
+[m
+
+# Created at 2019-11-10T02:34:24.922
+Unexpected IOException with stream: [32m[2019-11-10 02:34:24,921] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 15 
+
+[m
+
+# Created at 2019-11-10T02:34:25.939
+Unexpected IOException with stream: [32m[2019-11-10 02:34:25,938] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 16 
+
+[m
+
+# Created at 2019-11-10T02:34:26.955
+Unexpected IOException with stream: [32m[2019-11-10 02:34:26,955] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 17 
+
+[m
+
+# Created at 2019-11-10T02:34:27.972
+Unexpected IOException with stream: [32m[2019-11-10 02:34:27,971] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 18 
+
+[m
+
+# Created at 2019-11-10T02:34:28.989
+Unexpected IOException with stream: [32m[2019-11-10 02:34:28,988] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 19 
+
+[m
+
+# Created at 2019-11-10T02:34:30.008
+Unexpected IOException with stream: [32m[2019-11-10 02:34:30,007] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 20 
+
+[m
+
+# Created at 2019-11-10T02:34:31.024
+Unexpected IOException with stream: [32m[2019-11-10 02:34:31,023] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 21 
+
+[m
+
+# Created at 2019-11-10T02:34:32.044
+Unexpected IOException with stream: [32m[2019-11-10 02:34:32,043] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 22 
+
+[m
+
+# Created at 2019-11-10T02:34:33.061
+Unexpected IOException with stream: [32m[2019-11-10 02:34:33,060] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 23 
+
+[m
+
+# Created at 2019-11-10T02:34:34.082
+Unexpected IOException with stream: [32m[2019-11-10 02:34:34,081] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 24 
+
+[m
+
+# Created at 2019-11-10T02:34:35.098
+Unexpected IOException with stream: [32m[2019-11-10 02:34:35,097] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 25 
+
+[m
+
+# Created at 2019-11-10T02:34:36.118
+Unexpected IOException with stream: [32m[2019-11-10 02:34:36,116] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 26 
+
+[m
+
+# Created at 2019-11-10T02:34:37.144
+Unexpected IOException with stream: [32m[2019-11-10 02:34:37,143] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 27 
+
+[m
+
+# Created at 2019-11-10T02:34:38.162
+Unexpected IOException with stream: [32m[2019-11-10 02:34:38,161] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 28 
+
+[m
+
+# Created at 2019-11-10T02:34:39.179
+Unexpected IOException with stream: [32m[2019-11-10 02:34:39,178] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 29 
+
+[m
+
+# Created at 2019-11-10T02:34:40.198
+Unexpected IOException with stream: [32m[2019-11-10 02:34:40,197] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 30 
+
+[m
+
+# Created at 2019-11-10T02:34:41.215
+Unexpected IOException with stream: [32m[2019-11-10 02:34:41,214] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 31 
+
+[m
+
+# Created at 2019-11-10T02:34:42.231
+Unexpected IOException with stream: [32m[2019-11-10 02:34:42,230] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 32 
+
+[m
+
+# Created at 2019-11-10T02:34:43.251
+Unexpected IOException with stream: [32m[2019-11-10 02:34:43,250] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 33 
+
+[m
+
+# Created at 2019-11-10T02:34:44.274
+Unexpected IOException with stream: [32m[2019-11-10 02:34:44,268] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 34 
+
+[m
+
+# Created at 2019-11-10T02:34:45.316
+Unexpected IOException with stream: [32m[2019-11-10 02:34:45,315] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 35 
+
+[m
+
+# Created at 2019-11-10T02:34:46.353
+Unexpected IOException with stream: [32m[2019-11-10 02:34:46,352] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 36 
+
+[m
+
+# Created at 2019-11-10T02:34:47.382
+Unexpected IOException with stream: [32m[2019-11-10 02:34:47,379] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 37 
+
+[m
+
+# Created at 2019-11-10T02:34:48.465
+Unexpected IOException with stream: [32m[2019-11-10 02:34:48,464] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 38 
+
+[m
+
+# Created at 2019-11-10T02:34:49.553
+Unexpected IOException with stream: [32m[2019-11-10 02:34:49,552] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 39 
+
+[m
+
+# Created at 2019-11-10T02:34:50.582
+Unexpected IOException with stream: [32m[2019-11-10 02:34:50,581] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 40 
+
+[m
+
+# Created at 2019-11-10T02:34:51.623
+Unexpected IOException with stream: [32m[2019-11-10 02:34:51,622] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 41 
+
+[m
+
+# Created at 2019-11-10T02:34:52.699
+Unexpected IOException with stream: [32m[2019-11-10 02:34:52,655] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:338) - wait submit button, Trial No.: 42 
+
+[m
+

@@ -1,0 +1,164 @@
+# Created at 2019-11-10T00:51:25.762
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-11-10T00:51:26.389
+Unexpected IOException with stream: [32m[2019-11-10 00:51:26,388] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 12 
+
+[m
+
+# Created at 2019-11-10T00:51:27.408
+Unexpected IOException with stream: [32m[2019-11-10 00:51:27,407] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 13 
+
+[m
+
+# Created at 2019-11-10T00:51:28.426
+Unexpected IOException with stream: [32m[2019-11-10 00:51:28,425] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 14 
+
+[m
+
+# Created at 2019-11-10T00:51:29.449
+Unexpected IOException with stream: [32m[2019-11-10 00:51:29,448] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 15 
+
+[m
+
+# Created at 2019-11-10T00:51:30.469
+Unexpected IOException with stream: [32m[2019-11-10 00:51:30,468] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 16 
+
+[m
+
+# Created at 2019-11-10T00:51:31.486
+Unexpected IOException with stream: [32m[2019-11-10 00:51:31,485] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 17 
+
+[m
+
+# Created at 2019-11-10T00:51:32.504
+Unexpected IOException with stream: [32m[2019-11-10 00:51:32,503] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 18 
+
+[m
+
+# Created at 2019-11-10T00:51:33.525
+Unexpected IOException with stream: [32m[2019-11-10 00:51:33,524] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 19 
+
+[m
+
+# Created at 2019-11-10T00:51:34.544
+Unexpected IOException with stream: [32m[2019-11-10 00:51:34,543] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 20 
+
+[m
+
+# Created at 2019-11-10T00:51:35.561
+Unexpected IOException with stream: [32m[2019-11-10 00:51:35,560] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 21 
+
+[m
+
+# Created at 2019-11-10T00:51:36.580
+Unexpected IOException with stream: [32m[2019-11-10 00:51:36,579] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 22 
+
+[m
+
+# Created at 2019-11-10T00:51:37.598
+Unexpected IOException with stream: [32m[2019-11-10 00:51:37,597] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 23 
+
+[m
+
+# Created at 2019-11-10T00:51:38.613
+Unexpected IOException with stream: [32m[2019-11-10 00:51:38,612] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 24 
+
+[m
+
+# Created at 2019-11-10T00:51:39.632
+Unexpected IOException with stream: [32m[2019-11-10 00:51:39,631] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 25 
+
+[m
+
+# Created at 2019-11-10T00:51:40.649
+Unexpected IOException with stream: [32m[2019-11-10 00:51:40,648] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 26 
+
+[m
+
+# Created at 2019-11-10T00:51:41.668
+Unexpected IOException with stream: [32m[2019-11-10 00:51:41,667] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 27 
+
+[m
+
+# Created at 2019-11-10T00:51:42.684
+Unexpected IOException with stream: [32m[2019-11-10 00:51:42,683] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 28 
+
+[m
+
+# Created at 2019-11-10T00:51:43.701
+Unexpected IOException with stream: [32m[2019-11-10 00:51:43,700] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 29 
+
+[m
+
+# Created at 2019-11-10T00:51:44.719
+Unexpected IOException with stream: [32m[2019-11-10 00:51:44,718] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 30 
+
+[m
+
+# Created at 2019-11-10T00:51:45.736
+Unexpected IOException with stream: [32m[2019-11-10 00:51:45,735] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 31 
+
+[m
+
+# Created at 2019-11-10T00:51:46.751
+Unexpected IOException with stream: [32m[2019-11-10 00:51:46,750] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 32 
+
+[m
+
+# Created at 2019-11-10T00:51:47.770
+Unexpected IOException with stream: [32m[2019-11-10 00:51:47,769] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 33 
+
+[m
+
+# Created at 2019-11-10T00:51:48.786
+Unexpected IOException with stream: [32m[2019-11-10 00:51:48,785] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 34 
+
+[m
+
+# Created at 2019-11-10T00:51:49.803
+Unexpected IOException with stream: [32m[2019-11-10 00:51:49,802] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 35 
+
+[m
+
+# Created at 2019-11-10T00:51:50.818
+Unexpected IOException with stream: [32m[2019-11-10 00:51:50,817] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 36 
+
+[m
+
+# Created at 2019-11-10T00:51:51.834
+Unexpected IOException with stream: [32m[2019-11-10 00:51:51,833] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 37 
+
+[m
+
+# Created at 2019-11-10T00:51:52.854
+Unexpected IOException with stream: [32m[2019-11-10 00:51:52,853] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 38 
+
+[m
+
+# Created at 2019-11-10T00:51:53.872
+Unexpected IOException with stream: [32m[2019-11-10 00:51:53,871] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 39 
+
+[m
+
+# Created at 2019-11-10T00:51:54.887
+Unexpected IOException with stream: [32m[2019-11-10 00:51:54,886] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 40 
+
+[m
+
+# Created at 2019-11-10T00:51:55.907
+Unexpected IOException with stream: [32m[2019-11-10 00:51:55,906] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 41 
+
+[m
+
+# Created at 2019-11-10T00:51:56.926
+Unexpected IOException with stream: [32m[2019-11-10 00:51:56,925] [INFO ] [main] RegisteringNewCustomer.RegisterCustomerTestCases (RegisterCustomerTestCases.java:219) - wait error desc message , Trial No.: 42 
+
+[m
+

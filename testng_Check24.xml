@@ -5,5 +5,10 @@
 		<classes>
 			<class name="RegisteringNewCustomer.RegisterCustomerTestCases" />
 		</classes>
+	</test>
+	<test verbose="2" name="Default test1">
+		<classes>
+			<class name="TravelSearch.TravelSearchTestCases" />
+		</classes>
 	</test> 
 </suite> 
