@@ -57,7 +57,7 @@ public class CommenMethods {
 		} else {
 			System.setProperty("webdriver.chrome.driver",
 					System.getProperty("user.home") + System.getProperty("file.separator") + "chromedriver.exe");
-		}
+		} 
 
 	}
  

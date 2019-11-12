@@ -37,7 +37,7 @@ public class RegisterCustomerTestCases {
 		driver.findElement(By.xpath("//a[@class='c24-cookie-button']")).click();
 
 	}
-
+ 
 //Testing the start create new account button direction to registration form
 	@Test(priority = 0)
 	public void createNewUserButton() throws InterruptedException {

@@ -80,12 +80,12 @@ public class TravelSearchTestCases {
 			//sending date in the to date 
 			driver.findElement(By.xpath("//input[@name='returnDate']")).clear();
 			driver.findElement(By.xpath("//input[@name='returnDate']")).sendKeys("01.06.2021"); 
-			
-			
+			 
+			 
 			// clicking search button
 			CM.wait("//button[@id='c24-travel-search-button-element']", "Search button", driver);
 			CM.click("//button[@id='c24-travel-search-button-element']", "Search button", driver);
-			Thread.sleep(2000);
+			Thread.sleep(5000);
 			//waiting for loading bar to finish
 			
 			CM.wait("//div[@class='cheapest-lowest-price js-hotel-headline js-headline-multiple-hotels ']//span[@class='js-deferred-count deferred-count']", "result set", driver);
