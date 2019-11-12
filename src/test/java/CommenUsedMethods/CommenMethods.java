@@ -39,7 +39,7 @@ public class CommenMethods {
   
 	public CommenMethods(WebDriver driver, String baseUrl) {
 		this.driver = driver;
-		this.baseUrl = baseUrl;
+		this.baseUrl = baseUrl; 
 	}
  
 	public void setDrivers() {

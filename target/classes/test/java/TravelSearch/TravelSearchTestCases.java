@@ -65,7 +65,7 @@ public class TravelSearchTestCases {
 			//clicking the dates section
 			CM.click("//div[@class='c24-travel-duration-overlay c24-travel-js-open-duration-layer']", "dates section", driver);
 			//wait the dialog of the number of weeks
-			CM.wait("//div[@class='c24-travel-duration-layer c24-travel-c24-hidden c24-travel-pos-arrow-bottom' and @style = 'display: block; bottom: 89px; top: inherit; left: -73.5px;']", "2 weeks  button", driver);
+			CM.wait("//label[@for='c24-travel-duration-3']", "2 weeks  button", driver);
 			//clicking 2 weeks dates
 			CM.click("//label[@for='c24-travel-duration-3']", "dates section", driver);
 			Thread.sleep(1000);
@@ -77,7 +77,7 @@ public class TravelSearchTestCases {
 			Thread.sleep(1000);
 			//clicking the to date 
 			//CM.click("//input[@name='returnDate']", "to date", driver);
-			//sending date in the to date
+			//sending date in the to date 
 			driver.findElement(By.xpath("//input[@name='returnDate']")).clear();
 			driver.findElement(By.xpath("//input[@name='returnDate']")).sendKeys("01.06.2021"); 
 			
@@ -87,7 +87,7 @@ public class TravelSearchTestCases {
 			CM.click("//button[@id='c24-travel-search-button-element']", "Search button", driver);
 			Thread.sleep(2000);
 			//waiting for loading bar to finish
-			//CM.wait("//div[@class='progress-bar-loader-thin-wrapper js-progress-bar-loader-thin-wrapper' and @style='display: none;']", "loading bar to finish", driver);
+			
 			CM.wait("//div[@class='cheapest-lowest-price js-hotel-headline js-headline-multiple-hotels ']//span[@class='js-deferred-count deferred-count']", "result set", driver);
 			//Verifying that search criteria actually returned any number of options
 			if(Integer.parseInt(driver.findElement(By.xpath("//div[@class='cheapest-lowest-price js-hotel-headline js-headline-multiple-hotels ']//span[@class='js-deferred-count deferred-count']")).getText()) > 0 ) {
