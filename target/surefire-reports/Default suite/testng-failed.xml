@@ -5,10 +5,45 @@
     <classes>
       <class name="TravelSearch.TravelSearchTestCases">
         <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TravelSearch.TravelSearchTestCases -->
+      <class name="RegisteringNewCustomer.RegisterCustomerTestCases">
+        <methods>
+          <include name="registerationWithOnlyLettersPassword"/>
+          <include name="registerationWithPasswordSimilarToEmail"/>
+          <include name="registerationWithEmptyPasswordAndEmptyConfirmation"/>
+          <include name="registerationWithNotEmailString"/>
+          <include name="registerationWithOnlyNumbersPassword"/>
+          <include name="registerationTermsOfUseAndPrivacy"/>
+          <include name="registerationWithEmptyPasswordConfirmationField"/>
+          <include name="registerationHappyPath"/>
+          <include name="registerationWithFiftyOneCharchtersPassword"/>
+          <include name="createNewUserButton"/>
+          <include name="registerationWithEasyToGuessPassword"/>
+          <include name="registerationWithEmptyEmailField"/>
+          <include name="registerationWithOnlySpecialCharchtersPassword"/>
+          <include name="setUp"/>
+          <include name="registerationWithEmptyPassword"/>
+          <include name="registerationWithFiveCharchtersPassword"/>
+          <include name="registerationWithPreviouslyUsedEmail"/>
+        </methods>
+      </class> <!-- RegisteringNewCustomer.RegisterCustomerTestCases -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+  <test name="Default test1(failed)">
+    <classes>
+      <class name="TravelSearch.TravelSearchTestCases">
+        <methods>
           <include name="searchForFlight"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- TravelSearch.TravelSearchTestCases -->
+      <class name="RegisteringNewCustomer.RegisterCustomerTestCases">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- RegisteringNewCustomer.RegisterCustomerTestCases -->
     </classes>
-  </test> <!-- Default test(failed) -->
+  </test> <!-- Default test1(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

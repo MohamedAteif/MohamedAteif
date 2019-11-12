@@ -1,4 +1,20 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 131.122 s - in TestSuite
+Tests run: 17, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 107.326 s <<< FAILURE! - in TestSuite
+registerationWithNotEmailString(RegisteringNewCustomer.RegisterCustomerTestCases)  Time elapsed: 1.914 s  <<< FAILURE!
+java.lang.AssertionError: expected [Bitte geben Sie eine gültige E-Mail-Adresse an.] but found [Bitte geben Sie eine gÃ¼ltige E-Mail-Adresse an.]
+	at RegisteringNewCustomer.RegisterCustomerTestCases.registerationWithNotEmailString(RegisterCustomerTestCases.java:304)
+
+registerationWithEmptyPassword(RegisteringNewCustomer.RegisterCustomerTestCases)  Time elapsed: 2.313 s  <<< FAILURE!
+java.lang.AssertionError: expected [Die Passwörter stimmen nicht überein.] but found [Die PasswÃ¶rter stimmen nicht Ã¼berein.]
+	at RegisteringNewCustomer.RegisterCustomerTestCases.registerationWithEmptyPassword(RegisterCustomerTestCases.java:394)
+
+registerationWithEmptyPasswordConfirmationField(RegisteringNewCustomer.RegisterCustomerTestCases)  Time elapsed: 2.799 s  <<< FAILURE!
+java.lang.AssertionError: expected [Die Passwörter stimmen nicht überein.] but found [Die PasswÃ¶rter stimmen nicht Ã¼berein.]
+	at RegisteringNewCustomer.RegisterCustomerTestCases.registerationWithEmptyPasswordConfirmationField(RegisterCustomerTestCases.java:428)
+
+searchForFlight(TravelSearch.TravelSearchTestCases)  Time elapsed: 13.486 s  <<< FAILURE!
+java.lang.NumberFormatException: For input string: ""
+	at TravelSearch.TravelSearchTestCases.searchForFlight(TravelSearchTestCases.java:93)
+
