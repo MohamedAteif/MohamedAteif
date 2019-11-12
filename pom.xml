@@ -28,6 +28,7 @@
 							<value>${sys:user.home}${sys:file.separator}Check24${sys:file.separator}log4j2.xml</value>
 						</property>
 					</systemProperties>
+					<encoding>UTF-8</encoding>
 				</configuration>
 			</plugin>
 			<plugin>
